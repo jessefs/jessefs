@@ -15,9 +15,15 @@ You can click the Preview link to take a look at your changes.
 
 ## 👨‍💻Technologies
 
+<!---
+  https://img.shields.io/badge/"nome"-"codigoDeCores"?style=for-the-badge&logo="nomeDoLogo"&logoColor="cor"
+
+--->
+
 <p>
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=yellow"/>
 
 </p>
