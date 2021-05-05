@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/Lucas%20Simas-On%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jesse-freitas-718410154/)
+[![Linkedin Badge](https://img.shields.io/badge/Jesse%20Freitas-On%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jesse-freitas-718410154/)
