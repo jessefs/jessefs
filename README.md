@@ -1,10 +1,10 @@
 ## Hello there 👋
 
-I am a DevOps
+💻 I am a DevOps engineer.
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+💡 I am a person who loves new challenges and I am always willing to learn new things.
+
+😎 I like to play guitar 🎸, watch series and movies📺, and read books📘.
 
 <!---
 jessefs/jessefs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black"/>
 
 </p>
 
